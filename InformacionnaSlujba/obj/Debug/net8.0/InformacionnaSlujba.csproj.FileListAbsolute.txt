@@ -1,0 +1,14 @@
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\bin\Debug\net8.0\InformacionnaSlujba.exe
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\bin\Debug\net8.0\InformacionnaSlujba.deps.json
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\bin\Debug\net8.0\InformacionnaSlujba.runtimeconfig.json
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\bin\Debug\net8.0\InformacionnaSlujba.dll
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\bin\Debug\net8.0\InformacionnaSlujba.pdb
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\InformacionnaSlujba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\InformacionnaSlujba.AssemblyInfoInputs.cache
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\InformacionnaSlujba.AssemblyInfo.cs
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\InformacionnaSlujba.csproj.CoreCompileInputs.cache
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\InformacionnaSlujba.dll
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\refint\InformacionnaSlujba.dll
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\InformacionnaSlujba.pdb
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\InformacionnaSlujba.genruntimeconfig.cache
+C:\Users\STEM-1-6\Desktop\Marten 11a\oopProgramirane\InformacionnaSlujba\obj\Debug\net8.0\ref\InformacionnaSlujba.dll
